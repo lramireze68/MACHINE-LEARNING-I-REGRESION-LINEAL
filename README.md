@@ -1,4 +1,4 @@
-# Machine Learning with Dámaso Erling
+# Machine Learning 
 
 
 Programming assignments that I implemented in python of Coursera's Machine Learning Course (it uses Octave/MATLAB). I also added some concepts and formulas that I think are useful to help to understand the algorithms.
